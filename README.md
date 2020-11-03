@@ -16,6 +16,7 @@ As stated above it's to show how Git and Github work together
 Deployment can be on any web server or even local file system.
 
 ## How to Contribute
+Please fork this repo and issue PRs for review.
 
 ### Copyright
 Git.Training 2014
