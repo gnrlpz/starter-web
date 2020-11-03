@@ -10,7 +10,9 @@ Some other paragraph here
 ## Purpose
 
 Sample website with plenty of files for demos
+As stated above it's to show how Git and Github work together
 
 ## Deployment
+Deployment can be on any web server or even local file system.
 
 ## How to Contribute
